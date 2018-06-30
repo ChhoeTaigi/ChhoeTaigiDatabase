@@ -1,6 +1,6 @@
 # ChhoeTaigi 找台語：台語字詞資料庫
 #### 華文簡介
-- 這裡的資料是「ChhoeTaigi 找台語」計畫的一部份，若你想了解更多，請往這裡：
+這裡的資料是「ChhoeTaigi 找台語」計畫的一部份，若你想了解更多，請往這裡：
 https://github.com/ChhoeTaigi/ChhoeTaigi
 
 #### 以下是台文完整說明
