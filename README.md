@@ -65,8 +65,8 @@ ngoohebi+chhoetaigidb@gmail.com
     【台文華文線頂辭典】
     基礎資料提供：Tēⁿ Liông-úi（鄭良偉）教授
     資料增加kap編修：Iûⁿ Ún-giân（楊允言）教授、眾phah字kap校對ê義工
-    以 姓名標示-非商業性-Sio-kâng方式分享 3.0 台灣 (CC BY-NC-SA 3.0 TW) 授權
-    https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
+    以 姓名標示-Sio-kâng方式分享 4.0 國際 (CC BY-SA 4.0) 授權
+    https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
 
 #### 補充說明：
 > 多謝 Iûⁿ Ún-giân（楊允言）教授提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
