@@ -15,6 +15,12 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
 
 公開ê檔案lóng是用CSV (Comma-Separated Values) ê格式來khiām，ē-sái用Google文件、LibreOffice Calc Spreadsheet、Apple Numbers、Microsoft Office Excel等等軟體直接來phah開檔案。
 
+#### 資料庫ê目標：
+
+1. 數位化：Kā台語字詞ê文獻、紙本資料數位化，利便資料chhiau-chhōe kap後手ê運用
+2. 標準化：過去文獻資料因為無kâng ê因端致使文字格式無統一，tī chia ē標準化做傳統白話字kap教育部台羅版，包含Unicode調號kap輸入用ê數字調號
+3. 整合：收集、建立1 ê siōng大siōng完整ê台語字詞資料庫，ǹg望未來有lú chē資料ē-tàng chòe-hoe來貢獻
+
 #### 資料位置說明：
 
     \ChhoeTaigiDatabase\{版本編號}\{字詞資料代號}.csv
