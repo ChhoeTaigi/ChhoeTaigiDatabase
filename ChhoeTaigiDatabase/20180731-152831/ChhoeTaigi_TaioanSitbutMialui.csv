@@ -212,7 +212,7 @@ id,poj_input,poj_unicode,tailo_input,tailo_unicode,taigi_hanji,page_number
 211,Chui2-phio5,Chúi-phiô,Tsui2-phio5,Tsuí-phiô,水萍,98
 212,Tin5-tek-a2,Tîn-tek-á,Tin5-tik-a2,Tîn-tik-á,籐竹仔,99
 213,Kok-cheng,Kok-cheng,Kok-tsing,Kok-tsing,穀精、谷精,99
-214,Oong7-lai5,Ō͘ng-lâi,Oong7-lai5,Ōong-lâi,？萊,100
+214,Ong7-lai5,Ōng-lâi,Ong7-lai5,Ōng-lâi,𦬬萊,100
 215,Peh8-tek-a2-chhai3,Pe̍h-tek-á-chhài,Peh8-tik-a2-tshai3,Pe̍h-tik-á-tshài,白竹仔菜,101
 216,Tek-a2-hioh8,Tek-á-hio̍h,Tik-a2-hioh8,Tik-á-hio̍h,竹仔葉,101
 217,Tek-a2-chhai3,Tek-á-chhài,Tik-a2-tshai3,Tik-á-tshài,竹仔菜,101
@@ -1157,7 +1157,7 @@ id,poj_input,poj_unicode,tailo_input,tailo_unicode,taigi_hanji,page_number
 1156,Ang5-tam7-pi2,Âng-tām-pí,Ang5-tam7-pi2,Âng-tām-pí,紅淡比,294
 1157,Ang5-kau7-khak,Âng-kāu-khak,Ang5-kau7-khak,Âng-kāu-khak,紅厚殼,294
 1158,Thih-tio3-koann,Thih-tiò-koaⁿ,Thih-tio3-kuann,Thih-tiò-kuann,鐵釣竿,295
-1159,Ng5-hoe-a2-chhau2,N̂g-hoe-á-chháu,Ng5-hue-a2-tshau2,N̂g-hue-á-tsháu,黃花仔,295
+1159,Ng5-hoe-a2-chhau2,N̂g-hoe-á-chháu,Ng5-hue-a2-tshau2,N̂g-hue-á-tsháu,黃花仔草,295
 1160,It-ki-hiunn,It-ki-hiuⁿ,It-ki-hiunn,It-ki-hiunn,一枝香,295
 1161,Chhut-seng-lau2,Chhut-seng-láu,Tshut-sing-lau2,Tshut-sing-láu,出生老,295
 1162,Toa7-hoan-hun5,Tōa-hoan-hûn,Tua7-huan-hun5,Tuā-huan-hûn,大翻魂,295
@@ -1243,7 +1243,7 @@ id,poj_input,poj_unicode,tailo_input,tailo_unicode,taigi_hanji,page_number
 1242,Ham-khah-chhau2,Ham-khah-chháu,Ham-khah-tshau2,Ham-khah-tsháu,含殼草、蚶壳草,316
 1243,Joa7-a2-chhau2,Jōa-á-chháu,Jua7-a2-tshau2,Juā-á-tsháu,蚋仔草,316
 1244,Ham-khah-a2-chhau2,Ham-khah-á-chháu,Ham-khah-a2-tshau2,Ham-khah-á-tsháu,蚶壳仔草,316
-1245,Ian5-sui,Iân-sui,Ian5-sui,Iân-sui,？荽、蓑,316
+1245,Ian5-sui,Iân-sui,Ian5-sui,Iân-sui,莞荽、莞蓑,316
 1246,Ang5-chhai3-thau5,Âng-chhài-thâu,Ang5-tshai3-thau5,Âng-tshài-thâu,紅菜頭,316
 1247,Hoe5-hiunn,Hôe-hiuⁿ,Hue5-hiunn,Huê-hiunn,茴香,317
 1248,Kim-chhinn5-poh8-ho,Kim-chhîⁿ-po̍h-ho,Kim-tshinn5-poh8-ho,Kim-tshînn-po̍h-ho,金錢薄荷,317
@@ -1396,7 +1396,6 @@ id,poj_input,poj_unicode,tailo_input,tailo_unicode,taigi_hanji,page_number
 1395,Oo-tinn,O͘-tiⁿ,Oo-tinn,Oo-tinn,烏甜,353
 1396,Oo-tinn-a2,O͘-tiⁿ-á,Oo-tinn-a2,Oo-tinn-á,烏甜仔,353
 1397,Poo3-kiunn,Pò͘-kiuⁿ,Poo3-kiunn,Pòo-kiunn,布姜,353
-1398,€,€,€,€,蒲荊,353
 1399,Hai2-poo-kiunn,Hái-po͘-kiuⁿ,Hai2-poo-kiunn,Hái-poo-kiunn,海埔姜,353
 1400,Peh8-poo-kiunn,Pe̍h-po͘-kiuⁿ,Peh8-poo-kiunn,Pe̍h-poo-kiunn,白埔姜,353
 1401,Chat-chat-ang5,Chat-chat-âng,Tsat-tsat-ang5,Tsat-tsat-âng,節節紅,354
@@ -1656,7 +1655,7 @@ id,poj_input,poj_unicode,tailo_input,tailo_unicode,taigi_hanji,page_number
 1655,Tau3-piah-hong5,Tàu-piah-hông,Tau3-piah-hong5,Tàu-piah-hông,罩壁黃,408
 1656,Phu5-iong5,Phû-iông,Phu5-iong5,Phû-iông,芙蓉,408
 1657,Ti-chhai3-chhau2,Ti-chhài-chháu,Ti-tshai3-tshau2,Ti-tshài-tsháu,豬菜草,408
-1658,Soe3-ho7-lat8-a2,Sòe-hō-la̍t-á,Sue3-ho7-lat8-a2,Suè-hō-la̍t-á,細號拈力仔,408
+1658,Soe3-ho7-liam-lat8-a2,Sòe-hō-liam-la̍t-á,Sue3-ho7-liam-lat8-a2,Suè-hō-liam-la̍t-á,細號拈力仔,408
 1659,Chhan5-oo-chhau2,Chhân-o͘-chháu,Tshan5-oo-tshau2,Tshân-oo-tsháu,田烏草,408
 1660,Oo-chhan5-oo,O͘-chhân-o͘,Oo-tshan5-oo,Oo-tshân-oo,烏田烏,408
 1661,Chhan5-oo-a2-chhau2,Chhân-o͘-á-chháu,Tshan5-oo-a2-tshau2,Tshân-oo-á-tsháu,田烏仔草,408
