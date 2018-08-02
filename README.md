@@ -54,18 +54,18 @@ ngoohebi+chhoetaigidb@gmail.com
 
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料編號）
+|id|編號
+|poj_unicode|白話字
+|poj_unicode_dialect|白話字（其他講法）
 |poj_input|白話字輸入
-|poj_other_input|其他講法ê白話字輸入
-|poj_unicode|白話字萬國碼
-|poj_other_unicode|其他講法ê白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_other_input|其他講法ê台羅輸入
-|tailo_unicode|台羅萬國碼
-|tailo_other_unicode|其他講法ê台羅萬國碼
-|hanlo_poj|漢羅（白話字）
-|hanlo_tailo|漢羅（台羅）
-|hoagi|華語漢字
+|poj_input_dialect|白話字輸入（其他講法）
+|hanlo_taibun_poj|漢羅台文（白話字）
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
+|kiplmj_input|教育部羅馬字輸入
+|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
+|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
+|hoabun|華文
 
 #### 授權說明：
     【台文華文線頂辭典】
@@ -85,21 +85,21 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料編號）
+|id|編號
+|poj_unicode|白話字
+|poj_unicode_dialect|白話字（其他講法）
 |poj_input|白話字輸入
-|poj_other_input|其他講法ê白話字輸入
-|poj_unicode|白話字萬國碼
-|poj_other_unicode|其他講法ê白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_other_input|其他講法ê台羅輸入
-|tailo_unicode|台羅萬國碼
-|tailo_other_unicode|其他講法ê台羅萬國碼
-|hanlo_poj|漢羅（白話字）
-|hanlo_tailo|漢羅（台羅）
-|taigi_kaisoeh_hanlo_poj|台語解說（漢羅白話字）
-|taigi_kaisoeh_hanlo_tailo|台語解說（漢羅台羅）
-|taigi_leku_hanlo_poj|台語例句（漢羅白話字）
-|taigi_leku_hanlo_tailo|台語例句（漢羅台羅）
+|poj_input_dialect|白話字輸入（其他講法）
+|hanlo_taibun_poj|漢羅台文（白話字）
+|hanlo_taibun_kaisoeh_poj|漢羅台文解說（白話字）
+|hanlo_taibun_leku_poj|漢羅台文例句（白話字）
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
+|kiplmj_input|教育部羅馬字輸入
+|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
+|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
+|hanlo_taibun_kaisoeh_kiplmj|漢羅台文解說（教育部羅馬字）
+|hanlo_taibun_leku_kiplmj|漢羅台文例句（教育部羅馬字）
 |page_number|原冊頁數
 #### 授權說明：
     【台日大辭典（台文譯本）】
@@ -119,12 +119,12 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料ê順序編號）
+|id|編號
+|poj_unicode|白話字
 |poj_input|白話字輸入
-|poj_unicode|白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_unicode|台羅萬國碼
-|hoagi|華語漢字
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_input|教育部羅馬字輸入
+|hoabun|華文
 |english_descriptions|英文解說
 |page_number|原冊頁數（暫時無）
 
@@ -145,15 +145,15 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照原冊ê順序編號）
+|id|編號
+|poj_unicode|白話字
 |poj_input|白話字輸入
-|poj_unicode|白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_unicode|台羅萬國碼
-|hoagi|華語漢字
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_input|教育部羅馬字輸入
 |abbreviations|詞類縮寫
 |noun_classifiers|單位量詞
 |reduplication|疊詞
+|hoagi|華文
 |english_descriptions|英文解說
 |page_number|原冊頁數（暫時無）
 
@@ -175,21 +175,21 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料編號）
+|id|編號
+|poj_unicode|白話字
+|poj_unicode_dialect|白話字（其他講法）
 |poj_input|白話字輸入
-|poj_unicode|白話字萬國碼
-|poj_other_input|其他講法ê白話字輸入
-|poj_other_unicode|其他講法ê白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_unicode|台羅萬國碼
-|tailo_other_input|其他講法ê台羅輸入
-|tailo_other_unicode|其他講法ê台羅萬國碼
-|word_property|字詞ê屬性
+|poj_input_dialect|白話字輸入（其他講法）
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
+|kiplmj_input|教育部羅馬字輸入
+|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
+|word_property|字詞屬性
 |word_bunpeh_property|文白屬性
 |word_other_property|其他講法ê類型
-|taigi_hanji|台語漢字
-|hoagi|華語漢字
-|descriptions|華語解說、詞性、台語例詞kap例句
+|hanji_taibun|漢字台文
+|hoabun|華文
+|descriptions|華文解說、詞性，台文例詞kap例句
 
 #### 授權說明：
     【教育部台語辭典】
@@ -208,16 +208,16 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料編號）
+|id|編號
+|poj_unicode|白話字
 |poj_input|白話字輸入
-|poj_unicode|白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_unicode|台羅萬國碼
-|taigi_hanlo_poj|台文漢羅（白話字）
-|taigi_hanlo_tailo|台文漢羅（台羅）
-|taigi_kaisoeh_poj|台文解說（白話字）
-|taigi_kaisoeh_tailo|台文解說（台羅）
-|taigi_kaisoeh_hanlo_poj|台文解說（漢羅白話字）
+|hanlo_taibun_poj|漢羅台文（白話字）
+|poj_kaisoeh|台文解說（白話字）
+|hanlo_taibun_kaisoeh_poj|漢羅台文解說（白話字）
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_input|教育部羅馬字輸入
+|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
+|kiplmj_kaisoeh|漢羅台文解說（教育部羅馬字）
 |page_number|原冊頁數
 
 #### 授權說明：
@@ -239,13 +239,13 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料ê順序編號）
+|id|編號
+|poj_unicode|白話字
 |poj_input|白話字輸入
-|poj_unicode|白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_unicode|台羅萬國碼
-|hanlo|台文漢羅（台羅）
-|hoagi|華語漢字
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_input|教育部羅馬字輸入
+|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
+|hoabun|華文
 |from|字詞來源
 
 #### 授權說明：
@@ -265,16 +265,16 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料ê順序編號）
+|id|編號
+|poj_unicode|白話字
+|poj_unicode_dialect|白話字（其他講法）
 |poj_input|白話字輸入
-|poj_other_input|其他講法ê白話字輸入
-|poj_unicode|白話字萬國碼
-|poj_other_unicode|其他講法ê白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_other_input|其他講法ê台羅輸入
-|tailo_unicode|台羅萬國碼
-|tailo_other_unicode|其他講法ê台羅萬國碼
-|hoagi|華語漢字
+|poj_input_dialect|白話字輸入（其他講法）
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
+|kiplmj_input|教育部羅馬字輸入
+|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
+|hoabun|華文
 |page_number|原冊頁數
 
 #### 授權說明：
@@ -296,12 +296,12 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
-|id|編號（照來源資料ê順序編號）
+|id|編號
+|poj_unicode|白話字
 |poj_input|白話字輸入
-|poj_unicode|白話字萬國碼
-|tailo_input|台羅輸入
-|tailo_unicode|台羅萬國碼
-|taigi_hanji|台語漢字
+|kiplmj_unicode|教育部羅馬字
+|kiplmj_input|教育部羅馬字輸入
+|hanji_taibun|漢字台文
 |page_number|原冊頁數
 
 #### 授權說明：
