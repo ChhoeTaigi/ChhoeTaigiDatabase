@@ -153,7 +153,7 @@ ngoohebi+chhoetaigidb@gmail.com
 |abbreviations|詞類縮寫
 |noun_classifiers|單位量詞
 |reduplication|疊詞
-|hoagi|華文
+|hoabun|華文
 |english_descriptions|英文解說
 |page_number|原冊頁數（暫時無）
 
@@ -186,7 +186,7 @@ ngoohebi+chhoetaigidb@gmail.com
 |kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
 |word_property|字詞屬性
 |word_bunpeh_property|文白屬性
-|word_other_property|其他講法ê類型
+|word_dialect_property|其他講法ê類型
 |hanji_taibun|漢字台文
 |hoabun|華文
 |descriptions|華文解說、詞性，台文例詞kap例句
