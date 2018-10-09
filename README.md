@@ -82,7 +82,7 @@ ngoohebi+chhoetaigidb@gmail.com
 
 ## 2. 台日大辭典（台文譯本）
 #### 字詞資料代號：
-    ChhoeTaigi_TaiJitToaSuTian
+    ChhoeTaigi_TaijitToaSutian
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
@@ -118,7 +118,7 @@ ngoohebi+chhoetaigidb@gmail.com
 
 ## 3. Maryknoll台英辭典
 #### 字詞資料代號：
-    ChhoeTaigi_MaryknollTaiEngSuTian
+    ChhoeTaigi_MaryknollTaiengSutian
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
@@ -144,7 +144,7 @@ ngoohebi+chhoetaigidb@gmail.com
 
 ## 4. Embree台語辭典
 #### 字詞資料代號：
-    ChhoeTaigi_EmbreeTaigiSuTian
+    ChhoeTaigi_EmbreeTaigiSutian
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
@@ -240,7 +240,7 @@ ngoohebi+chhoetaigidb@gmail.com
 
 ## 7. iTaigi華台辭典
 #### 字詞資料代號：
-    ChhoeTaigi_iTaigiHoaTaiSutian
+    ChhoeTaigi_iTaigiHoataiSutian
 #### 資料內容說明：
 |欄位名稱         |說明                                                   |
 |----------------|---------------------------------------
