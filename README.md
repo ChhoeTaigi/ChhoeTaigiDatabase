@@ -27,6 +27,18 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
 
     {版本編號}：用產生ê日期kap時間做標記（yyyyMMdd-HHmmss）。
     {字詞資料代號}：請參考ta̍k-ê字詞資料ê說明。
+    
+    ChhoeTaigiDatabase/
+    └── {版本編號}
+        ├── ChhoeTaigi_EmbreeTaigiSutian.csv
+        ├── ChhoeTaigi_iTaigiHoataiSutian.csv
+        ├── ChhoeTaigi_KamJitian.csv
+        ├── ChhoeTaigi_KauiokpooTaigiSutian.csv
+        ├── ChhoeTaigi_MaryknollTaiengSutian.csv
+        ├── ChhoeTaigi_TaibunHoabunSoanntengSutian.csv
+        ├── ChhoeTaigi_TaijitToaSutian.csv
+        ├── ChhoeTaigi_TaioanPehoeKichhooGiku.csv
+        └── ChhoeTaigi_TaioanSitbutMialui.csv
 
 #### 字詞數量統計：
 |字詞資料名稱         |字詞數量                                                   |
