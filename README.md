@@ -22,37 +22,35 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
 3. 整合：收集、建立1 ê siōng大siōng完整ê台語字詞資料庫，ǹg望未來有lú chē資料ē-tàng chòe-hoe來貢獻
 
 #### 資料位置說明：
-
-    \ChhoeTaigiDatabase\{版本編號}\{字詞資料代號}.csv
+	https://github.com/ChhoeTaigi/ChhoeTaigiDatabase/tree/{版本編號}/ChhoeTaigiDatabase/{字詞資料代號}.csv
 
     {版本編號}：用產生ê日期kap時間做標記（yyyyMMdd-HHmmss）。
     {字詞資料代號}：請參考ta̍k-ê字詞資料ê說明。
     
-    ChhoeTaigiDatabase/
-    └── {版本編號}
-        ├── ChhoeTaigi_EmbreeTaigiSutian.csv
-        ├── ChhoeTaigi_iTaigiHoataiSutian.csv
-        ├── ChhoeTaigi_KamJitian.csv
-        ├── ChhoeTaigi_KauiokpooTaigiSutian.csv
-        ├── ChhoeTaigi_MaryknollTaiengSutian.csv
-        ├── ChhoeTaigi_TaibunHoabunSoanntengSutian.csv
-        ├── ChhoeTaigi_TaijitToaSutian.csv
-        ├── ChhoeTaigi_TaioanPehoeKichhooGiku.csv
-        └── ChhoeTaigi_TaioanSitbutMialui.csv
+    ../ChhoeTaigiDatabase/
+       ├── ChhoeTaigi_EmbreeTaigiSutian.csv
+       ├── ChhoeTaigi_iTaigiHoataiSutian.csv
+       ├── ChhoeTaigi_KamJitian.csv
+       ├── ChhoeTaigi_KauiokpooTaigiSutian.csv
+       ├── ChhoeTaigi_MaryknollTaiengSutian.csv
+       ├── ChhoeTaigi_TaibunHoabunSoanntengSutian.csv
+       ├── ChhoeTaigi_TaijitToaSutian.csv
+       ├── ChhoeTaigi_TaioanPehoeKichhooGiku.csv
+       └── ChhoeTaigi_TaioanSitbutMialui.csv
 
 #### 字詞數量統計：
 |字詞資料名稱         |字詞數量                                                   |
 |----------------|---------------------------------------
-|1. 台文華文線頂辭典|91340
+|1. 台文華文線頂辭典|87670
 |2. 台日大辭典（台文譯本）|69547
 |3. Maryknoll台英辭典|55903
-|4. Embree台語辭典|36824
+|4. Embree台語辭典|36820
 |5. 教育部台語辭典|26261
 |6. 甘字典|24367
 |7. iTaigi華台辭典|8713
 |8. 台灣白話基礎語句|5301
 |9. 台灣植物名彙|1722
-|總共|319978
+|總共|316304
 
 Ē-kha開始是ta̍k-ê字詞資料庫ê詳細說明，以詞庫字詞ê數量來排列，siōng chē--ê排siōng頂koân。
 
@@ -226,13 +224,16 @@ ngoohebi+chhoetaigidb@gmail.com
 |id|編號
 |poj_unicode|白話字
 |poj_input|白話字輸入
-|hanlo_taibun_poj|漢羅台文（白話字）
+|hanji_taibun|漢字台文
+|poj_bunim_unicode|文音（白話字）
+|poj_bunim_input|文音（白話字輸入）
 |poj_kaisoeh|台文解說（白話字）
 |hanlo_taibun_kaisoeh_poj|漢羅台文解說（白話字）
 |kiplmj_unicode|教育部羅馬字
 |kiplmj_input|教育部羅馬字輸入
-|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
-|kiplmj_kaisoeh|漢羅台文解說（教育部羅馬字）
+|kiplmj_bunim_unicode|文音（教育部羅馬字）
+|kiplmj_bunim_input|文音（教育部羅馬字輸入）
+|kiplmj_kaisoeh|台文解說（教育部羅馬字）
 |page_number|原冊頁數
 
 #### 授權說明：
@@ -268,8 +269,8 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 授權說明：
     【iTaigi華台辭典】
     （iTaigi）
-    以 姓名標示-Sio-kâng方式分享 4.0 國際 (CC BY-SA 4.0) 授權
-    https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
+    以「公眾領域貢獻宣告」（CC0）授權
+    http://creativecommons.tw/cc0
 
 #### 補充說明：
 > 資料是iTaigi團隊提供--ê。
