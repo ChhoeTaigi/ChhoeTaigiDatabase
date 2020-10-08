@@ -28,12 +28,12 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
     {字詞資料代號}：請參考ta̍k-ê字詞資料ê說明。
     
     ../ChhoeTaigiDatabase/
-       ├── ChhoeTaigi_EmbreeTaigiSutian.csv
-       ├── ChhoeTaigi_iTaigiHoataiSutian.csv
+       ├── ChhoeTaigi_EmbreeTaiengSutian.csv
+       ├── ChhoeTaigi_iTaigiHoataiTuichiautian.csv
        ├── ChhoeTaigi_KamJitian.csv
        ├── ChhoeTaigi_KauiokpooTaigiSutian.csv
        ├── ChhoeTaigi_MaryknollTaiengSutian.csv
-       ├── ChhoeTaigi_TaibunHoabunSoanntengSutian.csv
+       ├── ChhoeTaigi_TaihoaSoanntengTuichiautian.csv
        ├── ChhoeTaigi_TaijitToaSutian.csv
        ├── ChhoeTaigi_TaioanPehoeKichhooGiku.csv
        └── ChhoeTaigi_TaioanSitbutMialui.csv
@@ -41,16 +41,16 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
 #### 字詞數量統計：
 |字詞資料名稱         |字詞數量                                                   |
 |----------------|---------------------------------------
-|1. 台文華文線頂辭典|87670
-|2. 台日大辭典（台文譯本）|69552
-|3. Maryknoll台英辭典|55903
-|4. Embree台語辭典|36820
-|5. 教育部台語辭典|27487
-|6. 甘字典|24367
-|7. iTaigi華台辭典|8713
-|8. 台灣白話基礎語句|5301
-|9. 台灣植物名彙|1722
-|總共|317526
+|1. 2002+ 台華線頂對照典|91339
+|2. 1932 台日大辭典(台譯版)|69552
+|3. 1976 Maryknoll台英辭典|55903
+|4. 1973 Embree台英辭典|36800
+|5. 2011+ 教育部台語辭典|24612
+|6. 1913 甘字典|24367
+|7. 2016+ iTaigi華台對照典|16053
+|8. 1956 台灣白話基礎語句|5429
+|9. 1928 台灣植物名彙|1722
+|總共|325777
 
 Ē-kha開始是ta̍k-ê字詞資料庫ê詳細說明，以詞庫字詞ê數量來排列，siōng chē--ê排siōng頂koân。
 
