@@ -22,9 +22,8 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
 3. 整合：收集、建立1 ê siōng大siōng完整ê台語字詞資料庫，ǹg望未來有lú chē資料ē-tàng chòe-hoe來貢獻
 
 #### 資料位置說明：
-	https://github.com/ChhoeTaigi/ChhoeTaigiDatabase/tree/{版本編號}/ChhoeTaigiDatabase/{字詞資料代號}.csv
+	https://github.com/ChhoeTaigi/ChhoeTaigiDatabase/tree/ChhoeTaigiDatabase/{字詞資料代號}.csv
 
-    {版本編號}：用產生ê日期kap時間做標記（yyyyMMdd-HHmmss）。
     {字詞資料代號}：請參考ta̍k-ê字詞資料ê說明。
     
     ../ChhoeTaigiDatabase/
