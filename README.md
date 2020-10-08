@@ -62,21 +62,20 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_TaibunHoabunSoanntengSutian
 #### 資料內容說明：
-
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_unicode_dialect|白話字（其他講法）
-|poj_input|白話字輸入
-|poj_input_dialect|白話字輸入（其他講法）
-|hanlo_taibun_poj|漢羅台文（白話字）
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
-|kiplmj_input|教育部羅馬字輸入
-|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
-|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
-|hoabun|華文
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_unicode_other: '白話字(其他講法)',
+poj_input: '白話字輸入',
+poj_input_other: '白話字輸入(其他講法)',
+hanlo_taibun_poj: '漢羅台文(白話字)',
+kip_unicode: '教育部羅馬拼音',
+kip_unicode_other: '教育部羅馬拼音(其他講法)',
+kip_input: '教育部羅馬拼音輸入',
+kip_input_other: '教育部羅馬拼音輸入(其他講法)',
+hanlo_taibun_kip: '漢羅台文(教育部羅馬拼音)',
+hoabun: '華文',
+```
 
 #### 授權說明：
     【台文華文線頂辭典】
@@ -94,24 +93,25 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_TaijitToaSutian
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_unicode_dialect|白話字（其他講法）
-|poj_input|白話字輸入
-|poj_input_dialect|白話字輸入（其他講法）
-|hanlo_taibun_poj|漢羅台文（白話字）
-|hanlo_taibun_kaisoeh_poj|漢羅台文解說（白話字）
-|hanlo_taibun_leku_poj|漢羅台文例句（白話字）
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
-|kiplmj_input|教育部羅馬字輸入
-|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
-|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
-|hanlo_taibun_kaisoeh_kiplmj|漢羅台文解說（教育部羅馬字）
-|hanlo_taibun_leku_kiplmj|漢羅台文例句（教育部羅馬字）
-|page_number|原冊頁數
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_unicode_other: '白話字(其他講法)',
+poj_input: '白話字輸入',
+poj_input_other: '白話字輸入(其他講法)',
+hanlo_taibun_poj: '漢羅台文(白話字)',
+hanlo_taibun_kaisoeh_poj: '漢羅台文解說(白話字)',
+hanlo_taibun_leku_poj: '漢羅台文例句(白話字)',
+kip_unicode: '教育部羅馬拼音',
+kip_unicode_other: '教育部羅馬拼音(其他講法)',
+kip_input: '教育部羅馬拼音輸入',
+kip_input_other: '教育部羅馬拼音輸入(其他講法)',
+hanlo_taibun_kip: '漢羅台文(教育部羅馬拼音)',
+hanlo_taibun_kaisoeh_kip: '漢羅台文解說(教育部羅馬拼音)',
+hanlo_taibun_leku_kip: '漢羅台文例句(教育部羅馬拼音)',
+page_number: '原冊頁數',
+```
+
 #### 授權說明：
     【台日大辭典（台文譯本）】
     原作者：小川尚義
@@ -130,16 +130,16 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_MaryknollTaiengSutian
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_input|白話字輸入
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_input|教育部羅馬字輸入
-|hoabun|華文
-|english_descriptions|英文解說
-|page_number|原冊頁數（暫時無）
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_input: '白話字輸入',
+kip_unicode: '教育部羅馬拼音',
+kip_input: '教育部羅馬拼音輸入',
+hoabun: '華文',
+english: '英文解說',
+page_number: '原冊頁數(暫時無)',
+```
 
 #### 授權說明：
     【Maryknoll台英辭典】
@@ -156,19 +156,21 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_EmbreeTaigiSutian
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_input|白話字輸入
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_input|教育部羅馬字輸入
-|abbreviations|詞類縮寫
-|noun_classifiers|單位量詞
-|reduplication|疊詞
-|hoabun|華文
-|english_descriptions|英文解說
-|page_number|原冊頁數（暫時無）
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_input: '白話字輸入',
+kip_unicode: '教育部羅馬拼音',
+kip_input: '教育部羅馬拼音輸入',
+abbreviations: '詞類縮寫',
+noun_classifiers: '單位量詞',
+reduplication: '疊詞',
+hoabun: '華文',
+english: '英文解說',
+synonym: 'Kāng義詞',
+cf: '參照',
+page_number: '原冊頁數(暫時無)',
+```
 
 #### 授權說明：
     【Embree台語辭典】
@@ -186,23 +188,29 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_KauiokpooTaigiSutian
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_unicode_dialect|白話字（其他講法）
-|poj_input|白話字輸入
-|poj_input_dialect|白話字輸入（其他講法）
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
-|kiplmj_input|教育部羅馬字輸入
-|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
-|word_property|字詞屬性
-|word_bunpeh_property|文白屬性
-|word_dialect_property|其他講法ê類型
-|hanji_taibun|漢字台文
-|hoabun|華文
-|descriptions|華文解說、詞性，台文例詞kap例句
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_unicode_other: '白話字(其他講法)',
+poj_input: '白話字輸入',
+poj_input_other: '白話字輸入(其他講法)',
+kip_unicode: '教育部羅馬拼音',
+kip_unicode_other: '教育部羅馬拼音(其他講法)',
+kip_input: '教育部羅馬拼音輸入',
+kip_input_other: '教育部羅馬拼音輸入(其他講法)',
+hanji_taibun: '漢字台文',
+hanji_taibun_other: '漢字台文(其他寫法)',
+word_property: '字詞屬性',
+word_bunpeh_property: '文白屬性',
+other_word_bunpeh_property: '文白屬性(其他講法)',
+hoabun: '華文',
+descriptions_poj: '華文解說、詞性，台文例詞、例句',
+descriptions_kip: '華文解說、詞性，台文例詞、例句',
+dialects_poj: '無kāng所在ê講法(白話字)',
+dialects_kip: '無kāng所在ê講法(教育部羅馬拼音)',
+synonym: 'Kāng義詞',
+opposite: '反義詞',
+```
 
 #### 授權說明：
     【教育部台語辭典】
@@ -219,22 +227,22 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_KamJitian
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_input|白話字輸入
-|hanji_taibun|漢字台文
-|poj_bunim_unicode|文音（白話字）
-|poj_bunim_input|文音（白話字輸入）
-|poj_kaisoeh|台文解說（白話字）
-|hanlo_taibun_kaisoeh_poj|漢羅台文解說（白話字）
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_input|教育部羅馬字輸入
-|kiplmj_bunim_unicode|文音（教育部羅馬字）
-|kiplmj_bunim_input|文音（教育部羅馬字輸入）
-|kiplmj_kaisoeh|台文解說（教育部羅馬字）
-|page_number|原冊頁數
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_input: '白話字輸入',
+hanji_taibun: '漢字台文',
+poj_bunim_unicode: '漢字文讀音(白話字)',
+poj_bunim_input: '漢字文讀音(白話字輸入)',
+poj_kaisoeh: '台文解說(白話字)',
+hanlo_taibun_kaisoeh_poj: '漢羅台文解說(白話字)',
+kip_unicode: '教育部羅馬拼音',
+kip_input: '教育部羅馬拼音輸入',
+kip_bunim_unicode: '漢字文讀音(教育部羅馬拼音)',
+kip_bunim_input: '漢字文讀音(教育部羅馬拼音輸入)',
+kip_kaisoeh: '台文解說(教育部羅馬拼音)',
+page_number: '原冊頁數',
+```
 
 #### 授權說明：
     【甘字典】
@@ -255,16 +263,17 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_iTaigiHoataiSutian
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_input|白話字輸入
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_input|教育部羅馬字輸入
-|hanlo_taibun_kiplmj|漢羅台文（教育部羅馬字）
-|hoabun|華文
-|from|字詞來源
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_input: '白話字輸入',
+kip_unicode: '教育部羅馬拼音',
+kip_input: '教育部羅馬拼音輸入',
+hanlo_taibun_poj: '漢羅台文(白話字)',
+hanlo_taibun_kip: '漢羅台文(教育部羅馬拼音)',
+hoabun: '華文',
+from: '字詞來源',
+```
 
 #### 授權說明：
     【iTaigi華台辭典】
@@ -281,19 +290,28 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_TaioanPehoeKichhooGiku
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_unicode_dialect|白話字（其他講法）
-|poj_input|白話字輸入
-|poj_input_dialect|白話字輸入（其他講法）
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_unicode_dialect|教育部羅馬字（其他講法）
-|kiplmj_input|教育部羅馬字輸入
-|kiplmj_input_dialect|教育部羅馬字輸入（其他講法）
-|hoabun|華文
-|page_number|原冊頁數
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_unicode_other: '白話字(其他講法)',
+poj_input: '白話字輸入',
+poj_input_other: '白話字輸入(其他講法)',
+kip_unicode: '教育部羅馬拼音',
+kip_unicode_other: '教育部羅馬拼音(其他講法)',
+kip_input: '教育部羅馬拼音輸入',
+kip_input_other: '教育部羅馬拼音輸入(其他講法)',
+hoabun: '對應華文',
+english: '對應英文',
+english_soatbeng: '英文說明',
+noun_classifiers: '單位量詞',
+example_su: '例詞',
+opposite: '反義詞',
+example_ku_taibun_poj: '例句(白話字台文)',
+example_ku_english: '例句(英文)',
+example_ku_hoabun: '例句(華文)',
+from_su: '參照',
+page_number: '原冊頁數',
+```
 
 #### 授權說明：
     【台灣白話基礎語句】
@@ -312,15 +330,15 @@ ngoohebi+chhoetaigidb@gmail.com
 #### 字詞資料代號：
     ChhoeTaigi_TaioanSitbutMialui
 #### 資料內容說明：
-|欄位名稱         |說明                                                   |
-|----------------|---------------------------------------
-|id|編號
-|poj_unicode|白話字
-|poj_input|白話字輸入
-|kiplmj_unicode|教育部羅馬字
-|kiplmj_input|教育部羅馬字輸入
-|hanji_taibun|漢字台文
-|page_number|原冊頁數
+```
+id: '番號',
+poj_unicode: '白話字',
+poj_input: '白話字輸入',
+kip_unicode: '教育部羅馬拼音',
+kip_input: '教育部羅馬拼音輸入',
+hanji_taibun: '漢字台文',
+page_number: '原冊頁數',
+```
 
 #### 授權說明：
     【台灣植物名彙】
