@@ -58,9 +58,9 @@ Chia整理ê字詞資料來源若有重複--ê，kan-na ē保留來源hit份ê�
 ngoohebi+chhoetaigidb@gmail.com
 
 
-## 1. 台文華文線頂辭典
+## 1. 2002+ 台華線頂對照典
 #### 字詞資料代號：
-    ChhoeTaigi_TaibunHoabunSoanntengSutian
+    ChhoeTaigi_TaihoaSoanntengTuichiautian
 #### 資料內容說明：
 ```
 id: '番號',
@@ -89,7 +89,7 @@ hoabun: '華文',
 
 > 原始網站：http://ip194097.ntcu.edu.tw/ungian/soannteng/chil/Taihoa.asp
 
-## 2. 台日大辭典（台文譯本）
+## 2. 1932 台日大辭典(台譯版)
 #### 字詞資料代號：
     ChhoeTaigi_TaijitToaSutian
 #### 資料內容說明：
@@ -126,7 +126,7 @@ page_number: '原冊頁數',
 
 > Github：https://github.com/fhl-net/Lim-Chun-iok_2008_Tai-jip-Tua-su-tian
 
-## 3. Maryknoll台英辭典
+## 3. 1976 Maryknoll台英辭典
 #### 字詞資料代號：
     ChhoeTaigi_MaryknollTaiengSutian
 #### 資料內容說明：
@@ -152,9 +152,9 @@ page_number: '原冊頁數(暫時無)',
 
 > 原始網站：http://www.taiwanesedictionary.org/
 
-## 4. Embree台語辭典
+## 4. 1973 Embree台英辭典
 #### 字詞資料代號：
-    ChhoeTaigi_EmbreeTaigiSutian
+    ChhoeTaigi_EmbreeTaiengSutian
 #### 資料內容說明：
 ```
 id: '番號',
@@ -184,7 +184,7 @@ page_number: '原冊頁數(暫時無)',
 
 > 原始網站：https://github.com/Taiwanese-Corpus/Bernard-L.M.-Embree_1973_A-Dictionary-of-Southern-Min
 
-## 5. 教育部台語辭典
+## 5. 2011+ 教育部台語辭典
 #### 字詞資料代號：
     ChhoeTaigi_KauiokpooTaigiSutian
 #### 資料內容說明：
@@ -223,7 +223,7 @@ opposite: '反義詞',
 
 > 原始網站：http://twblg.dict.edu.tw/holodict_new/index.html
 
-## 6. 甘字典
+## 6. 1913 甘字典
 #### 字詞資料代號：
     ChhoeTaigi_KamJitian
 #### 資料內容說明：
@@ -259,9 +259,9 @@ page_number: '原冊頁數',
 
 > Github：https://github.com/fhl-net/Kam-Ui-lim_1913_Kam-Ji-tian
 
-## 7. iTaigi華台辭典
+## 7. 2016+ iTaigi華台對照典
 #### 字詞資料代號：
-    ChhoeTaigi_iTaigiHoataiSutian
+    ChhoeTaigi_iTaigiHoataiTuichiautian
 #### 資料內容說明：
 ```
 id: '番號',
@@ -286,7 +286,7 @@ from: '字詞來源',
 
 > 原始網站：https://itaigi.tw/
 
-## 8. 台灣白話基礎語句
+## 8. 1956 台灣白話基礎語句
 #### 字詞資料代號：
     ChhoeTaigi_TaioanPehoeKichhooGiku
 #### 資料內容說明：
@@ -326,7 +326,7 @@ page_number: '原冊頁數',
 
 > 原始網站：http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=862
 
-## 9. 台灣植物名彙
+## 9. 1928 台灣植物名彙
 #### 字詞資料代號：
     ChhoeTaigi_TaioanSitbutMialui
 #### 資料內容說明：
