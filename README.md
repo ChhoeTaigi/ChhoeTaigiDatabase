@@ -84,9 +84,10 @@ hoabun: '華文',
     https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
 
 #### 補充說明：
-> 多謝 Iûⁿ Ún-giân（楊允言）教授提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
-
-> 原始網站：http://ip194097.ntcu.edu.tw/ungian/soannteng/chil/Taihoa.asp
+```
+多謝 Iûⁿ Ún-giân（楊允言）教授提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
+原始網站：http://ip194097.ntcu.edu.tw/ungian/soannteng/chil/Taihoa.asp
+```
 
 ## 2. 1932 台日大辭典(台譯版)
 #### 字詞資料代號：
@@ -119,11 +120,11 @@ page_number: '原冊頁數',
     https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
 
 #### 補充說明：
-> 多謝 Lîm Chùn-io̍k（林俊育）長老提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
-
-> 原始網站：http://taigi.fhl.net/dict/
-
-> Github：https://github.com/fhl-net/Lim-Chun-iok_2008_Tai-jip-Tua-su-tian
+```
+多謝 Lîm Chùn-io̍k（林俊育）長老提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
+原始網站：http://taigi.fhl.net/dict/
+Github：https://github.com/fhl-net/Lim-Chun-iok_2008_Tai-jip-Tua-su-tian
+```
 
 ## 3. 1976 Maryknoll台英辭典
 #### 字詞資料代號：
@@ -147,9 +148,10 @@ page_number: '原冊頁數(暫時無)',
     https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
 
 #### 補充說明：
-> 資料是ùi Maryknoll Language Service Center ê網站khe̍h--ê，照原本ê授權公開。
-
-> 原始網站：http://www.taiwanesedictionary.org/
+```
+資料是ùi Maryknoll Language Service Center ê網站khe̍h--ê，照原本ê授權公開。
+原始網站：http://www.taiwanesedictionary.org/
+```
 
 ## 4. 1973 Embree台英辭典
 #### 字詞資料代號：
@@ -179,9 +181,10 @@ page_number: '原冊頁數(暫時無)',
     https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
 
 #### 補充說明：
-> 資料是ùi Taiwanese-Corpus ê網站khe̍h--ê，頂koân ê數位化資料是Iûⁿ Ún-giân（楊允言）教授提供--ê。
-
-> 原始網站：https://github.com/Taiwanese-Corpus/Bernard-L.M.-Embree_1973_A-Dictionary-of-Southern-Min
+```
+資料是ùi Taiwanese-Corpus ê網站khe̍h--ê，頂koân ê數位化資料是Iûⁿ Ún-giân（楊允言）教授提供--ê。
+原始網站：https://github.com/Taiwanese-Corpus/Bernard-L.M.-Embree_1973_A-Dictionary-of-Southern-Min
+```
 
 ## 5. 2011+ 教育部台語辭典
 #### 字詞資料代號：
@@ -218,9 +221,10 @@ opposite: '反義詞',
     https://creativecommons.org/licenses/by-nd/3.0/tw/
 
 #### 補充說明：
-> 資料是中華民國教育部提供--ê，照原本ê授權公開。
-
-> 原始網站：http://twblg.dict.edu.tw/holodict_new/index.html
+```
+資料是中華民國教育部提供--ê，照原本ê授權公開。
+原始網站：http://twblg.dict.edu.tw/holodict_new/index.html
+```
 
 ## 6. 1913 甘字典
 #### 字詞資料代號：
@@ -252,11 +256,11 @@ page_number: '原冊頁數',
     https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
 
 #### 補充說明：
-> 多謝 Lîm Chùn-io̍k（林俊育）長老提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
-
-> 原始網站：http://taigi.fhl.net/dick/
-
-> Github：https://github.com/fhl-net/Kam-Ui-lim_1913_Kam-Ji-tian
+```
+多謝 Lîm Chùn-io̍k（林俊育）長老提供資料，koh同意 ChhoeTaigi 計畫使用kap公開授權。
+原始網站：http://taigi.fhl.net/dick/
+Github：https://github.com/fhl-net/Kam-Ui-lim_1913_Kam-Ji-tian
+```
 
 ## 7. 2016+ iTaigi華台對照典
 #### 字詞資料代號：
@@ -281,9 +285,10 @@ from: '字詞來源',
     http://creativecommons.tw/cc0
 
 #### 補充說明：
-> 資料是iTaigi團隊提供--ê。
-
-> 原始網站：https://itaigi.tw/
+```
+資料是iTaigi團隊提供--ê。
+原始網站：https://itaigi.tw/
+```
 
 ## 8. 1956 台灣白話基礎語句
 #### 字詞資料代號：
@@ -321,9 +326,10 @@ page_number: '原冊頁數',
     https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
 
 #### 補充說明：
-> 資料是ùi台語文記憶網站khe̍h--ê。
-
-> 原始網站：http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=862
+```
+資料是ùi台語文記憶網站khe̍h--ê。
+原始網站：http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=862
+```
 
 ## 9. 1928 台灣植物名彙
 #### 字詞資料代號：
@@ -347,6 +353,7 @@ page_number: '原冊頁數',
     https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
 
 #### 補充說明：
-> 資料是ùi台語文記憶網站khe̍h--ê。
-
-> 原始網站：http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=59
+```
+資料是ùi台語文記憶網站khe̍h--ê。
+原始網站：http://ip194097.ntcu.edu.tw/memory/TGB/thak.asp?id=59
+```
