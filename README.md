@@ -358,8 +358,8 @@ liankiat: '媒體網址',
     數位化kap編修：ChhoeTaigi。
     內容版權屬原作者、原單位。
     數位化索引ê部份nā有版權，用下底ê方式公開：
-    以 姓名標示-Sio-kâng方式分享 4.0 國際 (CC BY-SA 4.0) 授權
-    https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
+    以 姓名標示-非商業性-Sio-kâng方式分享 3.0 台灣 (CC BY-NC-SA 3.0 TW) 授權
+    https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
 
 #### 補充說明：
 ```
