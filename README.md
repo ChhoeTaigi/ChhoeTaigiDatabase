@@ -357,7 +357,7 @@ liankiat: '媒體網址',
     原作者：請參考辭條內容「媒體名稱」、「媒體網址」。
     數位化kap編修：ChhoeTaigi。
     內容版權屬原作者、原單位。
-    數位化部份nā有版權，用下底ê方式公開：
+    數位化索引ê部份nā有版權，用下底ê方式公開：
     以 姓名標示-Sio-kâng方式分享 4.0 國際 (CC BY-SA 4.0) 授權
     https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW
 
